@@ -8,13 +8,13 @@ classes: wide
 sidebar: 
   - title: Monday-Thursday
     text: >- # this means to ignore newlines until "baseurl:"  
-      12AM | [News & Views](/shows/newsandviews)
+      12AM | [The Good Foot](/shows/goodfoot)
   
       01AM | [Music Motif](/shows/musicmotif/)
   
       02AM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
   
-      03AM | [AstroGuides Intuition Hour](/shows/astroguides/)
+      03AM | [Transmissions]
   
       04AM | [Rhythm & Views](/shows/rhythmandviews/)
 
