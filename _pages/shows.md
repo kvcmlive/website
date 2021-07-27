@@ -18,7 +18,7 @@ sidebar:
   
       04AM | [Rhythm & Views](/shows/rhythmandviews/)
 
-      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      05AM | [The Stereo Deli](/shows/stereodeli/)
 
       06AM | [News & Views](/shows/newsandviews)
 
