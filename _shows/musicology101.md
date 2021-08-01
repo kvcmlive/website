@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/Musicology101.png
 sidebar:
   - image: /assets/images/Musicology101.png
-  - title: "11AM & 11PM Weekdays"
+  - title: "6PM Sat"
   - title: "Genres"
     text: "House, Disco, Funk Boogie, R&B"
 ---
