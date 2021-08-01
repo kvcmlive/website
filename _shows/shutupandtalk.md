@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/shutupandtalk.png"
 sidebar:
   - image: "/assets/images/shutupandtalk.png"
-  - title: "9PM Sat"
+  - title: "1PM Sun"
   - title: "Genres"
     text: "Talk, Music"
 ---
