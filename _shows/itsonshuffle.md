@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/itsonshuffle.png"
 sidebar:
   - image: "/assets/images/itsonshuffle.png"
-  - title: "9PM Sunday"
+  - title: "9PM Sun"
   - title: "Genres"
     text: "Rock, Eclectic, Bops"
 ---
