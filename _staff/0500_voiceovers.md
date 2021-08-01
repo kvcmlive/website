@@ -1,6 +1,6 @@
 ---
 short_name: voiceovers
-name: Robin Soltis
+name: Contact us at <a href="mailto:KVCM@LAVC.edu">KVCM@LAVC.edu</a> to learn more
 position: Station Voice
-image: /assets/images/staff/RobinSoltis.png
+image: /assets/images/staff/staff.png
 ---
