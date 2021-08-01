@@ -1,6 +1,6 @@
 ---
 short_name: producer
 name: Remy
-position: Executive Producer<br>Operations Manager
+position: Operations Manager<br>Production Director
 image: /assets/images/staff/Remy.png
 ---
