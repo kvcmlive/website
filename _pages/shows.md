@@ -6,7 +6,7 @@ collection: shows
 entries_layout: grid
 classes: wide
 sidebar: 
-  - title: Monday-Thursday
+  - title: Monday-Friday
     text: >- # this means to ignore newlines until "baseurl:"  
       12AM | [The Good Foot](/shows/goodfoot)
   
@@ -20,156 +20,97 @@ sidebar:
 
       05AM | [The Stereo Deli](/shows/stereodeli/)
 
-      06AM | [News & Views](/shows/newsandviews)
+      06AM | [Sports & Views](/shows/sportsviews)
 
-      07AM | [Sports & Views](/shows/sportsviews)
+      07AM | [Radio's Magical]
 
-      08AM | [Audio Playground Unplugged](/shows/audioplayground/)
+      08AM | [Audio Playground](/shows/audioplayground/)
 
       09AM | [News & Views](/shows/newsandviews)
 
-      10AM | [The Collective](/shows/collective/)
+      10AM | [The Morning Mix]
       
-      11AM | [Tony Chauncey Show](/shows/tonychauncey)
+      11AM | [New Music Discovery]
       
-      12PM | [News & Views](/shows/newsandviews)
-
+      12PM | [The Good Foot](/shows/goodfoot)
+  
       01PM | [Music Motif](/shows/musicmotif/)
-
+  
       02PM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
-
-      03PM | [AstroGuides Intuition Hour](/shows/astroguides/)
-
+  
+      03PM | [Transmissions]
+  
       04PM | [Rhythm & Views](/shows/rhythmandviews/)
 
-      05PM | Live at Five
+      05PM | [The Stereo Deli](/shows/stereodeli/)
 
-      06PM | [News & Views](/shows/newsandviews)
+      06PM | [Sports & Views](/shows/sportsviews)
 
-      07PM | [Sports & Views](/shows/sportsviews)
+      07PM | [Radio's Magical]
 
       08PM | [Audio Playground](/shows/audioplayground/)
 
       09PM | [News & Views](/shows/newsandviews)
 
-      10PM | [The Collective](/shows/collective/)
-
-      11PM | [Tony Chauncey Show](/shows/tonychauncey)
-  - title: Friday
-    text: >- 
-      12AM | [News & Views](/shows/newsandviews)
-  
-      01AM | [Music Motif](/shows/musicmotif/)
-  
-      02AM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
-  
-      03AM | [AstroGuides Intuition Hour](/shows/astroguides/)
-  
-      04AM | [Rhythm & Views](/shows/rhythmandviews/)
-
-      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
-
-      06AM | [News & Views](/shows/newsandviews/)
-
-      07AM | [Sports & Views](/shows/sportsviews/)
-
-      08AM | [Audio Playground Unplugged](/shows/audioplayground/)
-
-      09AM | [News & Views](/shows/newsandviews/)
-
-      10AM | [The Collective](/shows/collective/)
+      10PM | [The Morning Mix]
       
-      11AM | [Health & Wellness]
+      11PM | [New Music Discovery]
       
-      12PM | Jacob Live
+  - title: Saturday
+    text: >-
+      12AM | [Best of KVCM]
+      
+      08AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
+      
+      09AM | [The Morning Exchange]
+      
+      10AM | [Politics Hour]
+      
+      11AM | [Comix Relief]
+      
+      12PM | [Various DJs]
 
-      01PM | Miguel Live
+      02PM | [The Good Foot](/shows/goodfoot)
 
-      02PM | Sean Live
-
-      03PM | DJ Snapz Live
+      03PM | [The Weekend Mix] 
 
       04PM | [Rhythm & Views](/shows/rhythmandviews/)
 
-      06PM | [Music Motif](/shows/musicmotif/)
-
-      07PM | [Stereo Deli](/shows/stereodeli/)
-
-      08PM | [The Good Foot](/shows/goodfoot/)
-
-      09PM | Lee Live
-
-      10PM | Lady Just Live
-
-      11PM | Alex Live
-  - title: Saturday
-    text: >-
-      12AM | [Kpop Konnection](/shows/kpopkonnection/)
-
-      02AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
+      06PM | [Musicology 101](/shows/musicology101/)
       
-      03AM | [The Ageless Wisdom](/shows/agelesswisdom/)
+      08PM | [Transmissions]
       
-      04AM | [Saturday Jazz]
+      09PM | [Electric Chemistry]
       
-      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
+      10PM | [Straight From The Horse's Mouth]
       
-      06AM | [Breakfast With The Beatles](/shows/bwtb/)
-      
-      08AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
-      
-      09AM | [News & Views](/shows/newsandviews)
-      
-      10AM | [The Collective](/shows/collective/)
-      
-      11AM | [Lloyd's Desk]
-      
-      12PM | [Roundtable Session]
-
-      02PM | [Radios Magical]
-
-      03PM | [Movie Asylum]
-
-      04PM | [Audio Issues Live](/shows/audioissues/)
-
-      06PM | KC & Robyn @ [Club KVCM Live](/shows/clubkvcmlive/)
-      
-      08PM | Ozzie @ [Club KVCM Live](/shows/clubkvcmlive/)
-      
-      10PM | Tajibeats @ [Club KVCM Live](/shows/clubkvcmlive/)
+      11PM | [Guilty Moms]
       
   - title: Sunday  
     text: >-
-      12AM | [Kpop Konnection](/shows/kpopkonnection/)
-
-      02AM | [Grateful Dead Hour](/shows/gratefuldeadhour/)
-      
-      03AM | [The Ageless Wisdom](/shows/agelesswisdom/)
-      
-      04AM | [Saturday Jazz]
-      
-      05AM | [The Acoustic Sunrise](/shows/acousticsunrise/)
-      
-      06AM | [Breakfast With The Beatles](/shows/bwtb/)
+      12AM | [Best of KVCM]
       
       08AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
-      09AM | [News & Views](/shows/newsandviews/)
+      09AM | [The Morning Exchange]
       
-      10AM | [Comix Relief]
+      11AM | [The Check In](/shows/checkin/)  
       
-      11AM | Roman Live
+      12PM | [Monarch Cafe](/shows/monarchcafe/)
 
-      12PM | [Real Talk](/shows/realtalk/)
-
+      01PM | [Shut Up and Talk](/shows/shutupandtalk/)
+      
       02PM | [The Sunday Recap]
 
       04PM | [Valley Girls](/shows/valleygirls/)
 
-      06PM | Soulful Hearts
+      06PM | [Camp Fire Stories](/shows/campfirestories/)
 
-      08PM | [Stereo Deli Show](/shows/stereodeli/)
-
-      10PM | [Multitrack Revolution](/shows/mtr)
+      07PM | [Soulful Hearts]
       
+      08PM | [Knock On Wood](/shows/knockonwood/)
+      
+      09PM | [It's On Shuffle](/shows/itsonshuffle/)
+      
+      11PM | [Music Motif](/shows/musicmotif/)
 ---
