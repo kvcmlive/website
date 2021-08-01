@@ -1,6 +1,6 @@
 ---
-short_name: voiceover
+short_name: voiceovers
 name: Bosco Bonetti
-position: Voiceover
+position: Voiceovers
 image: /assets/images/staff/BoscoBonetti.png
 ---
