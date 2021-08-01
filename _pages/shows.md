@@ -104,7 +104,7 @@ sidebar:
 
       04PM | [Valley Girls](/shows/valleygirls/)
 
-      06PM | [Camp Fire Stories](/shows/campfirestories/)
+      06PM | [Campfire Stories](/shows/campfirestories/)
 
       07PM | [Soulful Hearts]
       
