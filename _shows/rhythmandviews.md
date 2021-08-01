@@ -5,7 +5,8 @@ header:
   teaser: /assets/images/rnv.jpg
 sidebar:
   - image: /assets/images/rnv.jpg
-  - title: "7AM & 7PM Weekdays"
+  - title: "4AM & 4PM Weekdays"
+  - title: "4PM Sat"
   - title: "Genres"
     text: "Talk, Neo-Soul, Alternative R&B"
 ---
