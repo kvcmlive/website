@@ -1,6 +1,6 @@
 ---
 short_name: newsdirector
 name: Shana
-position: Headline News<br>Entertainment Update
+position: News Director<br>Headline News
 image: /assets/images/staff/staff.png
 ---
