@@ -1,6 +1,6 @@
 ---
 short_name: voiceovers
 name: Gerardo
-position: Sports Director<br>Sports Highlights
+position: Sports Director
 image: /assets/images/staff/Gerardo.png
 ---
