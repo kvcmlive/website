@@ -6,6 +6,7 @@ header:
 sidebar:
   - image: /assets/images/musicmotif.png
   - title: "1AM & 1PM Weekdays"
+  - title: "11PM Sunday"
   - title: "Genres"
     text: "Mixtape"
 ---
