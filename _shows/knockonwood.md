@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/knockonwood.png
 sidebar:
   - image: /assets/images/knockonwood.png
-  - title: "8PM Fri"
+  - title: "8PM Sun"
   - title: "Genres"
     text: "Talk, Eclectic"
 ---
