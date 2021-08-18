@@ -1,8 +1,8 @@
 ---
-title: "Sustainabillies"
+title: "Sustainabilies"
 excerpt: ""
 header:
-  teaser: /assets/images/Sustainabillies.PNG
+  teaser: /assets/images/Sustainabilies.PNG
 sidebar:
   - image: /assets/images/Sustainabilies.PNG
   - title: "12PM Sun"
