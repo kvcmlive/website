@@ -2,9 +2,9 @@
 title: "Sustainabillies"
 excerpt: ""
 header:
-  teaser: /assets/images/sustainabillies.PNG
+  teaser: /assets/images/Sustainabillies.PNG
 sidebar:
-  - image: /assets/images/sustainabilies.PNG
+  - image: /assets/images/Sustainabilies.PNG
   - title: "12PM Sun"
   - title: "Genres"
     text: "Eco-Friendly, Conservation, Nature"
