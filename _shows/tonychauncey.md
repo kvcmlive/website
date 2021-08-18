@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/TonyChauncey.png
 sidebar:
   - image: /assets/images/TonyChauncey.png
-  - title: "9PM Sat & Sun"
+  - title: "10PM Weekdays"
   - title: "Genres"
     text: "Talk, Soul, Singer-Songwriter"
 ---
