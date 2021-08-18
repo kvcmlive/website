@@ -8,53 +8,49 @@ classes: wide
 sidebar: 
   - title: Monday-Friday
     text: >- # this means to ignore newlines until "baseurl:"  
-      12AM | [The Good Foot](/shows/goodfoot)
+      12AM | [Hip-Hop, Rap & More]
   
       01AM | [Music Motif](/shows/musicmotif/)
   
-      02AM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
+      02AM | [Transmissions]
   
-      03AM | [Transmissions]
+      03AM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
   
       04AM | [Rhythm & Views](/shows/rhythmandviews/)
 
-      05AM | [The Stereo Deli](/shows/stereodeli/)
-
       06AM | [Sports & Views](/shows/sportsviews)
 
-      07AM | [Radio's Magical]
+      07AM | [Politics Alive]
 
       08AM | [Audio Playground](/shows/audioplayground/)
 
-      09AM | [News & Views](/shows/newsandviews)
+      09AM | [New @ Nine]
 
-      10AM | [The Morning Mix]
+      10AM | [The Tony Chauncey Show] 
       
-      11AM | [New Music Discovery]
+      11AM | [The Stereo Deli](/shows/stereodeli/)
       
-      12PM | [The Good Foot](/shows/goodfoot)
+      12PM | [Hip-Hop, Rap & More]
   
       01PM | [Music Motif](/shows/musicmotif/)
   
-      02PM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
+      02PM | [Transmissions]
   
-      03PM | [Transmissions]
+      03PM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
   
       04PM | [Rhythm & Views](/shows/rhythmandviews/)
 
-      05PM | [The Stereo Deli](/shows/stereodeli/)
-
       06PM | [Sports & Views](/shows/sportsviews)
 
-      07PM | [Radio's Magical]
+      07PM | [Politics Alive]
 
-      08PM | [Audio Playground](/shows/audioplayground/)
+      08PM | [80's @ Eight]
 
-      09PM | [News & Views](/shows/newsandviews)
+      09PM | [New @ Nine]
 
-      10PM | [The Morning Mix]
+      10PM | [The Tony Chauncey Show]
       
-      11PM | [New Music Discovery]
+      11PM | [The Stereo Deli](/shows/stereodeli/)
       
   - title: Saturday
     text: >-
@@ -68,11 +64,13 @@ sidebar:
       
       11AM | [Comix Relief]
       
-      12PM | [Various DJs]
+      12PM | [Radios Magical Live]
+      
+      01PM | [Richard's Roundtable Sessions]
 
       02PM | [The Good Foot](/shows/goodfoot)
 
-      03PM | [The Weekend Mix] 
+      03PM | [The Radio Kid Live] 
 
       04PM | [Rhythm & Views](/shows/rhythmandviews/)
 
@@ -96,11 +94,13 @@ sidebar:
       
       11AM | [The Check In](/shows/checkin/)  
       
-      12PM | [Monarch Cafe](/shows/monarchcafe/)
+      12PM | [Sustainabilies](/shows/sustainabilies/)
 
       01PM | [Shut Up and Talk](/shows/shutupandtalk/)
       
-      02PM | [The Sunday Recap]
+      02PM | 
+      
+      03PM | 
 
       04PM | [Valley Girls](/shows/valleygirls/)
 
