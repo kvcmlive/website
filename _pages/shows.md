@@ -26,7 +26,7 @@ sidebar:
 
       09AM | [New @ Nine]
 
-      10AM | [The Tony Chauncey Show] 
+      10AM | [The Tony Chauncey Show](/shows/tonychauncey/)
       
       11AM | [The Stereo Deli](/shows/stereodeli/)
       
@@ -48,7 +48,7 @@ sidebar:
 
       09PM | [New @ Nine]
 
-      10PM | [The Tony Chauncey Show]
+      10PM | [The Tony Chauncey Show](/shows/tonychauncey/)
       
       11PM | [The Stereo Deli](/shows/stereodeli/)
       
