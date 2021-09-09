@@ -1,6 +1,6 @@
 ---
 short_name: audioengineer
-name: Contact us at KVCM@LAVC.edu to learn more
+name: Alex Landaverde
 position: Audio Engineer
-image: /assets/images/staff/staff.png
+image: /assets/images/staff/AlexLandaverde.jpg
 ---
