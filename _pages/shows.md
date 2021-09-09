@@ -22,11 +22,11 @@ sidebar:
 
       07AM | [Politics Alive]
 
-      08AM | [Audio Playground](/shows/audioplayground/)
+      08AM | [80's @ 8]
 
       09AM | [New @ Nine]
 
-      10AM | [The Tony Chauncey Show](/shows/tonychauncey/)
+      10AM | [Country Funk]
       
       11AM | [The Stereo Deli](/shows/stereodeli/)
       
@@ -48,7 +48,7 @@ sidebar:
 
       09PM | [New @ Nine]
 
-      10PM | [The Tony Chauncey Show](/shows/tonychauncey/)
+      10PM | [Country Funk]
       
       11PM | [The Stereo Deli](/shows/stereodeli/)
       
@@ -65,8 +65,6 @@ sidebar:
       11AM | [Comix Relief]
       
       12PM | [Radios Magical Live]
-      
-      01PM | [Richard's Roundtable Sessions]
 
       02PM | [The Good Foot](/shows/goodfoot)
 
@@ -106,7 +104,7 @@ sidebar:
 
       06PM | [Campfire Stories](/shows/campfirestories/)
 
-      07PM | [Soulful Hearts]
+      07PM | [Best of KVCM]
       
       08PM | [Knock On Wood](/shows/knockonwood/)
       
