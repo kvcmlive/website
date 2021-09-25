@@ -8,7 +8,7 @@ classes: wide
 sidebar: 
   - title: Monday-Friday
     text: >- # this means to ignore newlines until "baseurl:"  
-      12AM | [Hip-Hop, Rap & More]
+      12AM | [Multi-Track Revoulution]
   
       01AM | [Music Motif](/shows/musicmotif/)
   
@@ -26,11 +26,11 @@ sidebar:
 
       09AM | [New @ Nine]
 
-      10AM | [Country Funk]
+      10AM | [Hell O'Ween Hour]
       
       11AM | [The Stereo Deli](/shows/stereodeli/)
       
-      12PM | [Hip-Hop, Rap & More]
+      12PM | [Multi-Track Revoulution]
   
       01PM | [Music Motif](/shows/musicmotif/)
   
@@ -48,7 +48,7 @@ sidebar:
 
       09PM | [New @ Nine]
 
-      10PM | [Country Funk]
+      10PM | [Hell O'Ween Hour]
       
       11PM | [The Stereo Deli](/shows/stereodeli/)
       
@@ -58,9 +58,9 @@ sidebar:
       
       08AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
-      09AM | [The Morning Exchange]
+      09AM | [Politics Hour]
       
-      10AM | [Politics Hour]
+      10AM | [Live with The Broadcast Club]
       
       11AM | [Comix Relief]
       
@@ -104,7 +104,7 @@ sidebar:
 
       06PM | [Campfire Stories](/shows/campfirestories/)
 
-      07PM | [Best of KVCM]
+      07PM | [The Roundtable Sessions]
       
       08PM | [Knock On Wood](/shows/knockonwood/)
       
