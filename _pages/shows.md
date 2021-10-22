@@ -6,7 +6,7 @@ collection: shows
 entries_layout: grid
 classes: wide
 sidebar: 
-  - title: Monday-Thursday
+  - title: Monday-Friday
     text: >- # this means to ignore newlines until "baseurl:"  
       12AM | [Multi-Track Revoulution]
   
@@ -16,17 +16,15 @@ sidebar:
   
       03AM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
   
-      04AM | [Hell O'Ween Hour]
-      
-      05AM | [Politics Alive]
+      04AM | [Rhythm & Views](/shows/rhythmandviews/)
 
       06AM | [Sports & Views](/shows/sportsviews)
 
-      07AM | [The Campy Spooky Show]
+      07AM | [Politics Alive]
 
-      08AM | [Connections]
+      08AM | [80's @ 8]
 
-      09AM | [Millennial Mondays]
+      09AM | [New @ Nine]
 
       10AM | [Hell O'Ween Hour]
       
@@ -40,99 +38,41 @@ sidebar:
   
       03PM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
   
-      04PM | [Hell O'Ween Hour]
-      
-      05PM | [Politics Alive]
+      04PM | [Rhythm & Views](/shows/rhythmandviews/)
 
       06PM | [Sports & Views](/shows/sportsviews)
 
-      07PM | [The Campy Spooky Show]
+      07PM | [Politics Alive]
 
-      08PM | [Connections]
+      08PM | [80's @ Eight]
 
-      09PM | [Millennial Mondays]
+      09PM | [New @ Nine]
 
       10PM | [Hell O'Ween Hour]
       
       11PM | [The Stereo Deli](/shows/stereodeli/)
-   
-   
-    - title: Friday
-      text: >-  
-      12AM | [Multi-Track Revoulution]
-  
-      01AM | [Music Motif](/shows/musicmotif/)
-  
-      02AM | [Transmissions]
-  
-      03AM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
-  
-      04AM | [Hell O' Ween Hour]
       
-      05PM | [Politics Alive]
-
-      06AM | [Sports & Views](/shows/sportsviews)
-
-      07AM | [The Campy Spooky Show]
-
-      08AM | [Connections]
-
-      09AM | [Millennial Mondays]
-
-      10AM | [Hell O'Ween Hour]
-      
-      11AM | [The Stereo Deli](/shows/stereodeli/)
-      
-      12PM | [Multi-Track Revoulution]
-  
-      01PM | [Music Motif](/shows/musicmotif/)
-  
-      02PM | [Kyle Live]
-  
-      03PM | [Game Central Station]
-  
-      04PM | [Joseph Live]
-      
-      05PM | [Ozzie Live]
-
-      07PM | [Transmissions]
-
-      08PM | [Shut-Up And Talk](/shows/shutupandtalk/)
-
-      09PM | [It's On Shuffle] (/shows/itsonshuffle/)
-
-      10PM | [Entertainment Talk]
-      
-      11PM | [The Curiouos Corner]
-   
-   
   - title: Saturday
     text: >-
-      12AM | [Entertainment Live]
-    
-      01AM | [Not For The Masses]
-    
-      02AM | [Best of KVCM]
-    
+      12AM | [Best of KVCM]
+      
       08AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
       
-      09AM | [Politics Alive]
+      09AM | [Politics Hour]
       
-      10AM | [Live with The Broadcasting Club]
+      10AM | [Live with The Broadcast Club]
       
       11AM | [Comix Relief]
       
-      12PM | [Radios Magical]
-
+      12PM | [Radios Magical Live]
       02PM | [The Good Foot](/shows/goodfoot)
-
-      03PM | [The Radio Kid] 
-
+      03PM | [The Radio Kid Live] 
       04PM | [Rhythm & Views](/shows/rhythmandviews/)
-
       06PM | [Musicology 101](/shows/musicology101/)
       
-      08PM | [Electric Chemistry]
+      08PM | [Transmissions]
+      
+      09PM | [Electric Chemistry]
       
       10PM | [Straight From The Horse's Mouth]
       
@@ -146,20 +86,16 @@ sidebar:
       
       09AM | [The Morning Exchange]
       
-      11AM | [Various Hosts]
+      11AM | [The Check In](/shows/checkin/)  
       
-      12PM | [Various Hosts]
-
-      01PM | [Annette Live]
+      12PM | [Sustainabilies](/shows/sustainabilies/)
+      01PM | [Shut Up and Talk](/shows/shutupandtalk/)
       
-      02PM | [The Round-Up]
+      02PM | 
       
-      03PM | [Various Hosts]
-
+      03PM | 
       04PM | [Valley Girls](/shows/valleygirls/)
-
-      06PM | [Today In History](/shows/campfirestories/)
-
+      06PM | [Campfire Stories](/shows/campfirestories/)
       07PM | [The Roundtable Sessions]
       
       08PM | [Knock On Wood](/shows/knockonwood/)
