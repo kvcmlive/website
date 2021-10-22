@@ -58,7 +58,7 @@ sidebar:
    
    
     - title: Friday
-    text: >- # this means to ignore newlines until "baseurl:"  
+      text: >-  
       12AM | [Multi-Track Revoulution]
   
       01AM | [Music Motif](/shows/musicmotif/)
