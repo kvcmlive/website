@@ -9,7 +9,7 @@ author:
   links:
     - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
-      url: "https://twitch.tv/kvcmradio"
+      url: "https://twitch.tv/monarchradio"
     - label: "SoundCloud"
       icon: "fab fa-fw fa-soundcloud"
       url: "https://soundcloud.com/kvcmlive"
