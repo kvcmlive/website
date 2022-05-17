@@ -1,6 +1,6 @@
 ---
 short_name: voiceovers
-name: Peter
+name: Peter Zucchero
 position: Voice Over<br>Producer
 image: /assets/images/staff/staff.png
 ---
