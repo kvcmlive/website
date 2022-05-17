@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/RockRollCowboy.png
 sidebar:
   - image: /assets/images/RockRollCowboy.png
-  - title: "8AM Sat & Sun"
+  - title: "9AM Tue, Wed, Thur, Sat"
   - title: "Genres"
     text: "Rock, Country"
 ---
