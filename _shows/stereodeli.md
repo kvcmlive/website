@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/StereoDeli.png
 sidebar:
   - image: /assets/images/StereoDeli.png
-  - title: "5AM & 5 PM Weekdays"
+  - title: "5PM Fri"
   - title: "Genres"
     text: "Eclectic"
 ---
