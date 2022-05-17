@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/ClubKVCMLive.png"
 sidebar:
   - image: "/assets/images/ClubKVCMLive.png"
-  - title: "6PM Sat & Sun"
+  - title: "On Hiatus"
   - title: "Genres"
     text: "Live"
 ---
