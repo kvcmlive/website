@@ -1,6 +1,6 @@
 ---
 short_name: producer
 name: Remy
-position: Program & Production Director
+position: Executive Producer & Production Director
 image: /assets/images/staff/Remy.png
 ---
