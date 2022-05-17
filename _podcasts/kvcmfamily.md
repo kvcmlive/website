@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/FamilyPodcast.png
 sidebar:
   - image: /assets/images/FamilyPodcast.png
-  - title: "6:30AM & 6:30PM Weekdays"
+  - title: "On Hiatus"
     image: ''
   - title: "Genres"
     text: "Podcast"
