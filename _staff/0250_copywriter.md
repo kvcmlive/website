@@ -1,6 +1,6 @@
 ---
-short_name: copywriter
+short_name: headcopywriter
 name: Karina Sanchez
-position: Copywriter
+position: Head Copywriter
 image: /assets/images/staff/staff.png 
 ---
