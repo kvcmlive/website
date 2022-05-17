@@ -1,6 +1,6 @@
 ---
 short_name: newsdirector
-name: Shana
+name: Jerry O.
 position: News Director
 image: /assets/images/staff/staff.png
 ---
