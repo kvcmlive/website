@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/campfirestories.png
 sidebar:
   - image: /assets/images/campfirestories.png
-  - title: "6PM Sun"
+  - title: "On Hiatus"
   - title: "Genres"
     text: "Storytelling, Horror"
 ---
