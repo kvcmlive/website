@@ -1,6 +1,6 @@
 ---
-short_name: stationmanager
+short_name: advisor
 name: The Professor
-position: Station Manager<br>Program Director
+position: Consultant<br>Advisor
 image: /assets/images/staff/TheProfessor.png
 ---
