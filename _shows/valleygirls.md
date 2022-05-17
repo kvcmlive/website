@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/ValleyGirls.png"
 sidebar:
   - image: "/assets/images/ValleyGirls.png"
-  - title: "4PM Sun"
+  - title: "On Hiatus"
   - title: "Genres"
     text: "Talk, Eclectic, Views"
 ---
