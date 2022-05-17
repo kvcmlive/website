@@ -1,6 +1,6 @@
 ---
 short_name: voiceovers
-name: V. Anie
+name: Peter
 position: Voiceover
-image: /assets/images/staff/VanessaSanchez.png
+image: /assets/images/staff/Staff.png
 ---
