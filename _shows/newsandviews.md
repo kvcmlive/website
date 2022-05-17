@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/NewsAndViews.png"
 sidebar:
   - image: "/assets/images/NewsAndViews.png"
-  - title: "9AM & 9PM Weekdays"
+  - title: "On Hiatus"
   - title: "Genres"
     text: "News, Views"
 ---
