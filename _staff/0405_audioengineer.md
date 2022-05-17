@@ -1,6 +1,6 @@
 ---
 short_name: audioengineer
-name: Alex Landaverde
-position: Audio Engineer
-image: /assets/images/staff/AlexLandaverde.jpg
+name: Christina Cannarella
+position: Promotions Director
+image: /assets/images/staff/staff.png
 ---
