@@ -1,6 +1,6 @@
 ---
 short_name: copywriter
-name: Sean McSweeney
+name: Karina Sanchez
 position: Copywriter
 image: /assets/images/staff/Sean.png
 ---
