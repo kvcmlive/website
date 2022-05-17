@@ -1,6 +1,6 @@
 ---
-short_name: newsdirector
+short_name: campusnewsdirector
 name: Jerry O.
-position: News Director
+position: Campus News Director
 image: /assets/images/staff/staff.png
 ---
