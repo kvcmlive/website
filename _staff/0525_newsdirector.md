@@ -1,6 +1,6 @@
 ---
 short_name: newsdirector
-name: Richard Zom
+name: Sandra E.
 position: News Director
-image: /assets/images/staff/RichardZom.png
+image: /assets/images/staff/staff.png
 ---
