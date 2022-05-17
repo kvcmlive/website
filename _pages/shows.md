@@ -8,15 +8,17 @@ classes: wide
 sidebar: 
   - title: Monday-Friday
     text: >- # this means to ignore newlines until "baseurl:"  
-      12AM | [Multi-Track Revoulution]
+      12AM | [Sports & Views](/shows/sportsviews)
   
       01AM | [Music Motif](/shows/musicmotif/)
   
-      02AM | [Transmissions]
+      02AM | [Politics Alive]
   
       03AM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
   
       04AM | [Rhythm & Views](/shows/rhythmandviews/)
+      
+      05AM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
 
       06AM | [Sports & Views](/shows/sportsviews)
 
@@ -30,15 +32,17 @@ sidebar:
       
       11AM | [The Stereo Deli](/shows/stereodeli/)
       
-      12PM | [Multi-Track Revoulution]
+      12PM | [Sports & Views](/shows/sportsviews)
   
       01PM | [Music Motif](/shows/musicmotif/)
   
-      02PM | [Transmissions]
+      02PM | [Politics Alive]
   
       03PM | [Korean Byte & Lounge](/shows/koreanbytelounge/)
   
       04PM | [Rhythm & Views](/shows/rhythmandviews/)
+      
+      05PM | [Rock and Roll Cowboy](/shows/rocknrollcowboy/)
 
       06PM | [Sports & Views](/shows/sportsviews)
 
@@ -100,7 +104,6 @@ sidebar:
       
       08PM | [Knock On Wood](/shows/knockonwood/)
       
-      09PM | [It's On Shuffle](/shows/itsonshuffle/)
       
       11PM | [Music Motif](/shows/musicmotif/)
 ---
