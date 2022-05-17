@@ -1,6 +1,6 @@
 ---
-short_name: voiceovers
+short_name: consultant
 name: Bosco Bonetti
-position: Voiceovers
+position: Consultant
 image: /assets/images/staff/BoscoBonetti.png
 ---
