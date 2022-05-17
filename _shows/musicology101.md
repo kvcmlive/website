@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/Musicology101.png
 sidebar:
   - image: /assets/images/Musicology101.png
-  - title: "6PM Sat"
+  - title: "6PM Sun"
   - title: "Genres"
     text: "House, Disco, Funk Boogie, R&B"
 ---
