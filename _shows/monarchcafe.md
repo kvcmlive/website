@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/monarchcafe.png"
 sidebar:
   - image: "/assets/images/monarchcafe.png"
-  - title: "12PM Sun"
+  - title: "On Hiatus"
   - title: "Genres"
     text: "Talk, Eclectic"
 ---
