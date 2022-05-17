@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/KoreanByteandLounge.png"
 sidebar:
   - image: "/assets/images/KoreanByteandLounge.png"
-  - title: "2 AM & 2PM Weekdays"
+  - title: "7pm Fri"
   - title: "Genres"
     text: "K-Pop"
 ---
