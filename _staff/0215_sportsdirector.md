@@ -1,6 +1,6 @@
 ---
 short_name: sportsdirector
 name: Tori Leach
-position: Sports Director
+position: Senior Sports Director
 image: /assets/images/staff/ToriLeach.png
 ---
