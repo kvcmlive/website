@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/Sustainabilies.PNG
 sidebar:
   - image: /assets/images/Sustainabilies.PNG
-  - title: "12PM Sun"
+  - title: "On Hiatus"
   - title: "Genres"
     text: "Eco-Friendly, Conservation, Nature"
 ---
