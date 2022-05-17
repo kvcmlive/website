@@ -1,6 +1,6 @@
 ---
 short_name: broadcastingclubvp
 name: Dominique Benites
-position: Broadcasting Club President<br>Promotions Director
+position: Promotions Director<br>Broadcasting Club Vice President
 image: /assets/images/staff/DominiqueBenites.png
 ---
