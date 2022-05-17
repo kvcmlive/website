@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/audioplayground.png
 sidebar:
   - image: /assets/images/audioplayground.png
-  - title: "8AM & 8PM Weekdays"
+  - title: "On Hiatus"
   - title: "Genres"
     text: "Talk, Rock, Soul, Disco"
 ---
