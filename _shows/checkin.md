@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/thecheckin.png
 sidebar:
   - image: /assets/images/thecheckin.png
-  - title: "11am Sun"
+  - title: "On Hiatus"
   - title: "Genres"
     text: "Talk, Personal Development"
 ---
