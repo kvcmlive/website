@@ -5,9 +5,8 @@ header:
   teaser: /assets/images/TheValleyStarPodcast.png
 sidebar:
   - image: /assets/images/TheValleyStarPodcast.png
-  - title: "6AM & 6PM Weekdays"
+  - title: "On Hiatus"
     image: ''
-  - title: "12PM Sat & Sun"
   - title: "Genres"
     text: "Podcast"
 ---
