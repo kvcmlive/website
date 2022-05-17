@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/RemoteBroadcasts.png
 sidebar:
   - image: /assets/images/RemoteBroadcasts.png
-  - title: "1PM & 2PM Sat & Sun"
+  - title: "Selected Wednesday's 10AM-1PM"
   - title: "Genres"
 ---
 
