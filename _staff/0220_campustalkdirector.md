@@ -1,6 +1,6 @@
 ---
 short_name: campustalkdirector
 name: Osmin Flamenco
-position: Production Director<br>Producer
+position: Senior Producer<br>On Campus Club DJ
 image: /assets/images/staff/OzzieFlamenco.png
 ---
