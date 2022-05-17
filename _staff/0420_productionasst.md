@@ -1,6 +1,6 @@
 ---
-short_name: productionasst
+short_name: campussportsdirector
 name: Razin Khan
-position: Sports Director
+position: Campus Sports Director
 image: /assets/images/staff/Razin.png
 ---
