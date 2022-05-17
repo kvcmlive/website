@@ -1,7 +1,7 @@
 ---
-short_name: videoeditor
+short_name: seniorproducer
 name: Robyn Carmona
-position: Video Director
+position: Senior Producer<br>Video Director
 image: /assets/images/staff/RobynCarmona.jpg
 ---
 
