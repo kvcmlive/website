@@ -5,8 +5,7 @@ header:
   teaser: /assets/images/rnv.jpg
 sidebar:
   - image: /assets/images/rnv.jpg
-  - title: "4AM & 4PM Weekdays"
-  - title: "4PM Sat"
+  - title: "On Hiatus"
   - title: "Genres"
     text: "Talk, Neo-Soul, Alternative R&B"
 ---
