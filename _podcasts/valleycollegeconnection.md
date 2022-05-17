@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/LAVCconnectionPodcast.png
 sidebar:
   - image: /assets/images/LAVCconnectionPodcast.png
-  - title: "3PM Sat & Sun"
+  - title: "Various Times"
   - title: "Genres"
     text: "Podcast"
 ---
