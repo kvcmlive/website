@@ -97,7 +97,6 @@ sidebar:
       08PM | (It's On Shuffle](/shows/itsonshuffle/)
       
       11PM | [Music Motif](/shows/musicmotif/)
----
       
   - title: Sunday  
     text: >-

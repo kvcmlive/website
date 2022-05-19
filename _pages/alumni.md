@@ -72,11 +72,11 @@ Erika Miranda<br>
 KPFK
 
 Moe Moazeni<br>
-2010-20212<br)
+2010-20212<br>
 CEO Highlight Production & Advertising
 
 Bill Peso<br>
-1995-1997<br)
+1995-1997<br>
 Rincon Broadcasting, KTYD Morning Host
 
 Teri Pierce (Miss T)<br>
