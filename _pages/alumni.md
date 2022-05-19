@@ -10,16 +10,28 @@ If you are a KVCM Alumni and had a radio show, staff position, were part of the 
 Enrie Amezcua<br>
 Morning Newscast Producer (TV)
 
+Richard Blythe<br>
+1994-1997<br>
+Salem Media Los Angeles, Operations Facillities Manager
+
 Bosco Bonetti<br>
 2019-2021<br>
 Co-Founder of KVCM.Live, Operations Manager, Creative Director, and Host
 
+Daniel Brady<br>
+1995-1997<br>
+Take On The Day, LLC Director, Podcast Operation & Program Audio Content
+
 Nadia Cota<br>
 2013-2017
 
+Michael Cosio<br>
+2015-2017<br>
+Premiere Radio Network, Technical Producer
+
 Tricia Cruz<br>
 2017<br>
-iHeart, Playboy Radio and KNX News Radio
+iHeart, Playboy Radio, KNX News Radio, KABC Radio Producer
 
 Tully Diö<br>
 2016-2019<br>
@@ -59,13 +71,21 @@ Erika Miranda<br>
 2010-2012<br>
 KPFK
 
+Bill Peso<br>
+1995-1997<br)
+Rincon Broadcasting, KTYD Morning Host
+
 Teri Pierce (Miss T)<br>
 2016-2018<br>
 Host, DJ, Production
 
-Schiffy<br>
+Scott Schiffy<br>
 2007-2010<br>
 Multimedia Teacher
+
+James Shippy<br>
+2017-2019<br>
+KXL FM Producer
 
 DJ Shortie the Latin Trouble Maker<br>
 2012-2014<br>
@@ -75,6 +95,10 @@ Bowie Starr<br>
 2016-2018<br>
 Current: Sundance & Outfest Screening Film Producer<br>
 Past (LAVC): Broadcasting Club President (ASU Club of the Year, 2017), Director of Programming & Co-Host of "Stone & Steel Radio Show"
+
+Summer Still<br>
+2012-2014<br>
+Fox, WACH TV Writer, Producer, 
 
 Michael L Straus (Mike on the Mike)<br>
 1990-1992<br>
