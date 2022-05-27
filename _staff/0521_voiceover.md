@@ -1,6 +1,6 @@
 ---
 short_name: voiceovers
-name: Alex Bush
+name: Alexandria Stone
 position: Voice-Over<br>
 image: /assets/images/staff/AlexBush.jpg
 ---
