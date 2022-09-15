@@ -1,6 +1,6 @@
 ---
 short_name: producer
 name: Trina Nguyen
-position: Producer<br>
+position: Operations Manager<br>Social Media Director<br>Producer<br>
 image: /assets/images/staff/staff.png
 ---
