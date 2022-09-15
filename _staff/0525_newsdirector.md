@@ -1,6 +1,6 @@
 ---
 short_name: newsdirector
-name: Vacant
+name: Annette
 position: News Director<br>
 image: /assets/images/staff/staff.png
 ---
