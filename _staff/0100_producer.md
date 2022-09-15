@@ -1,6 +1,6 @@
 ---
 short_name: executiveproducer
 name: Remy
-position: Executive Producer<br>Executive Production Director
+position: Executive Producer
 image: /assets/images/staff/Remy.png
 ---
