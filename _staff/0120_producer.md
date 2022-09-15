@@ -1,6 +1,6 @@
 ---
-short_name: producer
-name: Trina Nguyen
-position: Producer<br>
+short_name: socialmediamanager
+name: Jenell Norvell<br>
+position: Social Media Manager<br>Operations Assistant<br>
 image: /assets/images/staff/staff.png
 ---
