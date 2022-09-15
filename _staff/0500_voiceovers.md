@@ -1,6 +1,6 @@
 ---
 short_name: consultant
-name: Bosco Bonetti
+name: Vacant
 position: Consultant<br>Creative Director
-image: /assets/images/staff/BoscoBonetti.png
+image: /assets/images/staff/staff.png
 ---
