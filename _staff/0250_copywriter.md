@@ -1,6 +1,6 @@
 ---
 short_name: headcopywriter
 name: Edward
-position: Head Copywriter
+position: Campus Sports Director & Host
 image: /assets/images/staff/Edward.jpg 
 ---
