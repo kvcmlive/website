@@ -1,6 +1,6 @@
 ---
 short_name: consultant
 name: Nichole
-position: Consultant<br>Headline News Director
+position: Headline News Director & Host
 image: /assets/images/staff/Nichole_Staff.png
 ---
