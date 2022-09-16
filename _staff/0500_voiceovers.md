@@ -1,6 +1,6 @@
 ---
 short_name: consultant
-name: Vacant
-position: Consultant<br>Creative Director
-image: /assets/images/staff/staff.png
+name: Nichole
+position: Consultant<br>Headline News Director
+image: /assets/images/staff/Nichole_Staff.png
 ---
