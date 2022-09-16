@@ -2,5 +2,5 @@
 short_name: campusnewsdirector
 name: Jerry O.
 position: Campus News Director
-image: /assets/images/staff/staff.png
+image: /assets/images/staff/Jerry O.png
 ---
